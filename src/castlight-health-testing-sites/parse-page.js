@@ -32,8 +32,8 @@ const parsePage = (page) => {
       }
       return daySchedule
     })
-    let mainTest = Array.from(site.querySelectorAll('div.rapid-testing-row > span')).map(test => test?.textContent)
-    let antibody = Array.from(site.querySelectorAll('div.anti-body-testing > img[alt="Antibody testing icon"] + span')).map(test => test?.textContent)
+    let mainTest = Array.from(site.querySelectorAll('div.rapid-testing-row > span')).map(test => test.textContent)
+    let antibody = Array.from(site.querySelectorAll('div.anti-body-testing > img[alt="Antibody testing icon"] + span')).map(test => test.textContent)
     let testing = [...mainTest, ...antibody]
     return testingSite(name, url, locationType, googleMapUrl, address, phone, schedules, testing)
   })
