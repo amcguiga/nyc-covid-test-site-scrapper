@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "name": "CityMD Urgent Care- Long Island City",
+      "url": "https://www.citymd.com/urgent-care-locations/ny/queens/long-island-city/252",
+      "locationType": "Urgent Care Clinic",
+      "googleMapUrl": "https://maps.google.com/?q=25-18%20Queens%20Plaza%20South,%20Queens,%20NY%2011101",
+      "address": "25-18 Queens Plaza South, Queens, NY 11101",
+      "phone": "(646) 647-1261",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "8AM-8PM"
+        }
+      ],
+      "testing": [
+        "Rapid Testing Results in 15 Minutes",
+        "Non-Rapid Testing Results in 2-3 Days",
+        "Antibody Testing: Available"
+      ]
+    },
+    {
+      "name": "Amazon Pharmacy",
+      "url": "https://prescryptive.com/covid-consumer-testing/",
+      "locationType": "Pharmacy Clinic",
+      "googleMapUrl": "https://maps.google.com/?q=42-10%2043rd%20Ave,%20Sunnyside,%20NY%2011104",
+      "address": "42-10 43rd Ave, Sunnyside, NY 11104",
+      "phone": "(718) 786-0707",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "5PM-8PM"
+        }
+      ],
+      "testing": [
+        "Rapid Testing Results in 15 Minutes"
+      ]
+    },
+    {
+      "name": "Thomas P. Noonan Jr. Department of Veterans Affairs Outpatient Clinic",
+      "url": "https://www.va.gov/coronavirus-veteran-frequently-asked-questions/",
+      "locationType": "VA Clinic",
+      "googleMapUrl": "https://maps.google.com/?q=4103%20Queens%20Boulevard,%20Sunnyside,%20NY%2011104",
+      "address": "4103 Queens Boulevard, Sunnyside, NY 11104",
+      "phone": "(718) 741-4800",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "8AM-4:30PM"
+        }
+      ],
+      "testing": [
+        "Non-Rapid Testing Results in 3-4 Days"
+      ]
+    },
+    {
+      "name": "Statcare Urgent & Walk-In Medical Care (Astoria)",
+      "url": "https://www.statcarewalkin.com/covid-19-testing-near-me-queens-astoria-11105-ny-coronavirus-cost-test-available/",
+      "locationType": "Urgent Care Clinic",
+      "googleMapUrl": "https://maps.google.com/?q=37-15%2023rd%20Avenue,%20Astoria,%20NY%2011105",
+      "address": "37-15 23rd Avenue, Astoria, NY 11105",
+      "phone": "(917) 310-3371",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "8AM-8PM"
+        }
+      ],
+      "testing": [
+        "Rapid Testing Results in 0-30 Minutes",
+        "Non-Rapid Testing Results in 2-3 Days"
+      ]
+    },
+    {
+      "name": "CityMD Urgent Care- Ditmars",
+      "url": "https://www.citymd.com/urgent-care-locations/ny/queens/ditmars/088",
+      "locationType": "Urgent Care Clinic",
+      "googleMapUrl": "https://maps.google.com/?q=22-48%2031st%20St,%20Astoria,%20NY%2011105",
+      "address": "22-48 31st St, Astoria, NY 11105",
+      "phone": "(718) 571-9192",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "8AM-8PM"
+        }
+      ],
+      "testing": [
+        "Rapid Testing Results in 15 Minutes",
+        "Non-Rapid Testing Results in 5-7 Days",
+        "Antibody Testing: Available"
+      ]
+    },
+    {
+      "name": "Xeron Lab Queens-1 Patient Service Center",
+      "url": "https://www.xeronlabs.com/",
+      "locationType": "Independent Laboratory",
+      "googleMapUrl": "https://maps.google.com/?q=48-25%2036th%20Street,%20Long%20Island%20City,%20NY%2011101",
+      "address": "48-25 36th Street, Long Island City, NY 11101",
+      "phone": "(866) 937-6652",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "8AM-4PM"
+        }
+      ],
+      "testing": [
+        "Non-Rapid Testing Results in 1-2 Days",
+        "Antibody Testing: Available"
+      ]
+    },
+    {
+      "name": "Speedy Sticks",
+      "url": "https://www.speedysticks.com/",
+      "locationType": "Mobile Testing",
+      "googleMapUrl": "https://maps.google.com/?q=6901%20northern%20blvd,%20Woodside,%20NY%2011377",
+      "address": "6901 northern blvd, Woodside, NY 11377",
+      "phone": "(347) 292-9570",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "8AM-8PM"
+        }
+      ],
+      "testing": [
+        "Rapid Testing Results in 9 Minutes",
+        "Non-Rapid Testing Results in 3-5 Days",
+        "Antibody Testing: Available"
+      ]
+    },
+    {
+      "name": "Northwell Health-GoHealth Urgent Care",
+      "url": "https://www.gohealthuc.com/northwell/locations/east-81st",
+      "locationType": "Urgent Care Clinic",
+      "googleMapUrl": "https://maps.google.com/?q=1555%201st%20Ave,%20New%20York,%20NY%2010028",
+      "address": "1555 1st Ave, New York, NY 10028",
+      "phone": "(212) 897-1995",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "8AM-8PM"
+        }
+      ],
+      "testing": [
+        "Rapid Testing Results in 15 Minutes",
+        "Non-Rapid Testing Results in 2-5 Days",
+        "Antibody Testing: Available"
+      ]
+    },
+    {
+      "name": "NYC Health + Hospitals/CultureLab",
+      "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/?redirect&notification",
+      "locationType": "Walk up only",
+      "googleMapUrl": "https://maps.google.com/?q=5-25%2046th%20Avenue,%20Queens,%20NY%2011101",
+      "address": "5-25 46th Avenue, Queens, NY 11101",
+      "phone": "(844) 692-4692",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "8AM-7PM"
+        }
+      ],
+      "testing": []
+    },
+    {
+      "name": "Total Health & Wellness Medical Center",
+      "url": "http://www.totalhealthandwellnessmedical.com/",
+      "locationType": "Urgent Care Clinic",
+      "googleMapUrl": "https://maps.google.com/?q=1632%201st%20Avenue,%20New%20York,%20NY%2010010",
+      "address": "1632 1st Avenue, New York, NY 10010",
+      "phone": "(917) 634-6063",
+      "schedules": [
+        {
+          "name": "Monday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "testing": [
+        "Rapid Testing Results in 15 Minutes",
+        "Non-Rapid Testing Results in 1-2 Days",
+        "Antibody Testing: Available"
+      ]
+    }
+  ]
+}
