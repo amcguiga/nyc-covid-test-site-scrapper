@@ -21,12 +21,12 @@ const parsePage = (page) => {
     let parsedLines = lines.map( line => {
       let placeholder = dom.window.document.createElement('p')
       placeholder.innerHTML = line.trim()
-      return placeholder.textContent.replace(/\n|\r/g, '').replace(/  +/g, ' ')
+      return placeholder.textContent.replace(/\n|\r|\t/g, '').replace(/  +/g, ' ')
     })
 
     // This monster is because sometimes they slip extra address lines or directions in
     let result = parsedLines.reduce( (acc, line) => {
-      if (/.+NY \d{5}/.test(line))
+      if (/.+NY ?\d{5}/.test(line))
         return {
           siteInfo: acc.siteInfo,
           neighborhood: line,
@@ -49,7 +49,7 @@ const parsePage = (page) => {
     let [name, testsAvailable, ...streets] = result.siteInfo
     let [dates, ...times] = result.schedule
     let info = Array.from(site.getElementsByTagName('i')).map( info => 
-      info.textContent.replace(/\n|\r/g, '').replace(/  +/g, ' ')
+      info.textContent.replace(/\n|\r|\t/g, '').replace(/  +/g, ' ')
     )
     return testingSite(name, testsAvailable, streets, result.neighborhood, dates, times, info)
   })

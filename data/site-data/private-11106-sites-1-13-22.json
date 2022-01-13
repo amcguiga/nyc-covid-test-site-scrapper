@@ -1,0 +1,3530 @@
+[
+  {
+    "name": "The Floating Hospital- LIC",
+    "url": "https://www.thefloatinghospital.org/covid-19-testing/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=21-01%2041st%20ave,%20Long%20Island%20City,%20NY%2011101",
+    "address": "21-01 41st ave, Long Island City, NY 11101",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed-"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed-"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care- Long Island City",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/queens/long-island-city/252",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=25-18%20Queens%20Plaza%20South,%20Queens,%20NY%2011101",
+    "address": "25-18 Queens Plaza South, Queens, NY 11101",
+    "phone": "(646) 647-1261",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Amazon Pharmacy",
+    "url": "https://prescryptive.com/covid-consumer-testing/",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=42-10%2043rd%20Ave,%20Sunnyside,%20NY%2011104",
+    "address": "42-10 43rd Ave, Sunnyside, NY 11104",
+    "phone": "(718) 786-0707",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "5PM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "5PM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "5PM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "5PM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "5PM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "5PM-8PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "5PM-8PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes"
+    ]
+  },
+  {
+    "name": "Thomas P. Noonan Jr. Department of Veterans Affairs Outpatient Clinic",
+    "url": "https://www.va.gov/coronavirus-veteran-frequently-asked-questions/",
+    "locationType": "VA Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=4103%20Queens%20Boulevard,%20Sunnyside,%20NY%2011104",
+    "address": "4103 Queens Boulevard, Sunnyside, NY 11104",
+    "phone": "(718) 741-4800",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-4:30PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-4:30PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-4:30PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-4:30PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 3-4 Days"
+    ]
+  },
+  {
+    "name": "Statcare Urgent & Walk-In Medical Care (Astoria)",
+    "url": "https://www.statcarewalkin.com/covid-19-testing-near-me-queens-astoria-11105-ny-coronavirus-cost-test-available/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=37-15%2023rd%20Avenue,%20Astoria,%20NY%2011105",
+    "address": "37-15 23rd Avenue, Astoria, NY 11105",
+    "phone": "(917) 310-3371",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-30 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care- Ditmars",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/queens/ditmars/088",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=22-48%2031st%20St,%20Astoria,%20NY%2011105",
+    "address": "22-48 31st St, Astoria, NY 11105",
+    "phone": "(718) 571-9192",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 5-7 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Xeron Lab Queens-1 Patient Service Center",
+    "url": "https://www.xeronlabs.com/",
+    "locationType": "Independent Laboratory",
+    "googleMapUrl": "https://maps.google.com/?q=48-25%2036th%20Street,%20Long%20Island%20City,%20NY%2011101",
+    "address": "48-25 36th Street, Long Island City, NY 11101",
+    "phone": "(866) 937-6652",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-12PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Speedy Sticks",
+    "url": "https://www.speedysticks.com/",
+    "locationType": "Mobile Testing",
+    "googleMapUrl": "https://maps.google.com/?q=6901%20northern%20blvd,%20Woodside,%20NY%2011377",
+    "address": "6901 northern blvd, Woodside, NY 11377",
+    "phone": "(347) 292-9570",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-8PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 9 Minutes",
+      "Non-Rapid Testing Results in 3-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Northwell Health-GoHealth Urgent Care",
+    "url": "https://www.gohealthuc.com/northwell/locations/east-81st",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1555%201st%20Ave,%20New%20York,%20NY%2010028",
+    "address": "1555 1st Ave, New York, NY 10028",
+    "phone": "(212) 897-1995",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "NYC Health + Hospitals/CultureLab",
+    "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/?redirect&notification",
+    "locationType": "Walk up only",
+    "googleMapUrl": "https://maps.google.com/?q=5-25%2046th%20Avenue,%20Queens,%20NY%2011101",
+    "address": "5-25 46th Avenue, Queens, NY 11101",
+    "phone": "(844) 692-4692",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-4PM"
+      }
+    ],
+    "testing": []
+  },
+  {
+    "name": "Total Health & Wellness Medical Center",
+    "url": "http://www.totalhealthandwellnessmedical.com/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1632%201st%20Avenue,%20New%20York,%20NY%2010010",
+    "address": "1632 1st Avenue, New York, NY 10010",
+    "phone": "(917) 634-6063",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Hopkins Drugs - Woodside",
+    "url": "http://resilhealth.com/hopkinsdrugs",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=6319%20Roosevelt%20Avenue,%20Woodside,%20NY%2011377",
+    "address": "6319 Roosevelt Avenue, Woodside, NY 11377",
+    "phone": "(718) 429-2140",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days"
+    ]
+  },
+  {
+    "name": "Concierge COVID Test NYC",
+    "url": "https://conciergecovidtest.nyc/",
+    "locationType": "Physician's Office",
+    "googleMapUrl": "https://maps.google.com/?q=315%20East%2083rd%20Street,%20New%20York,%20NY%2010028",
+    "address": "315 East 83rd Street, New York, NY 10028",
+    "phone": "(212) 986-9200",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in .12 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care- East 86th",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/manhattan/east-86th/001",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=336%20East%2086th%20St,%20New%20York,%20NY%2010028",
+    "address": "336 East 86th St, New York, NY 10028",
+    "phone": "(212) 933-1364",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-9PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 3-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "CVS Pharmacy",
+    "url": "https://www.cvs.com/store-locator/jackson-heights-ny-pharmacies/72-09-northern-boulevard-jackson-heights-ny-11372/storeid=491",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=72-09%20Northern%20Boulevard,%20Jackson%20Heights,%20NY%2011372",
+    "address": "72-09 Northern Boulevard, Jackson Heights, NY 11372",
+    "phone": "(718) 533-8434",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-9PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-9PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-9PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-9PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-9PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Available"
+    ]
+  },
+  {
+    "name": "Forest Urgent Care ",
+    "url": "https://www.foresturgentcare.com/services/covid-19-testing",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=10-11%2049%20Ave%20,%20Long%20Island%20City,%20NY%2011101",
+    "address": "10-11 49 Ave , Long Island City, NY 11101",
+    "phone": "(347) 318-5488",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "10AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 9 Minutes",
+      "Non-Rapid Testing Results in 3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Healthsource Pharmacy",
+    "url": "https://prescryptive.com/covid-consumer-testing/",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1302%20Second%20Avenue,%20New%20York,%20NY%2010065",
+    "address": "1302 Second Avenue, New York, NY 10065",
+    "phone": "(212) 794-8700",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9:30AM-5:30PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9:30AM-5:30PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9:30AM-5:30PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9:30AM-5:30PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9:30AM-5:30PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10AM-3PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 1-2 Hours",
+      "Non-Rapid Testing Results in 1-2 Days"
+    ]
+  },
+  {
+    "name": "Nucare Pharmacy",
+    "url": "https://www.nucaremasks.com/covid-19-testing",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1789%201ST%20AVENUE,%20NEW%20YORK,%20NY%2010128",
+    "address": "1789 1ST AVENUE, NEW YORK, NY 10128",
+    "phone": "(718) 426-9300",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Available"
+    ]
+  },
+  {
+    "name": "Chai Urgent Care - Free Covid Testing Site (East Elmhurst, NY)",
+    "url": "https://www.chaicare.org/location/ny/east-elmhurst",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=75-37%2031st%20Ave,%20East%20Elmhurst,%20NY%2011370",
+    "address": "75-37 31st Ave, East Elmhurst, NY 11370",
+    "phone": "(929) 565-2424",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-8PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "UMD Urgent Care - LIC",
+    "url": "https://www.umdcare.com/urgent-care/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=5-35%2050th%20Ave.,%20Long%20Island%20City,%20NY%2011101",
+    "address": "5-35 50th Ave., Long Island City, NY 11101",
+    "phone": "(718) 472-5900",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "HealthSource Pharmacy III",
+    "url": "https://prescryptive.com/covid-consumer-testing/",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1000%201ST%20AVE,%20NEW%20YORK,%20NY%2010022",
+    "address": "1000 1ST AVE, NEW YORK, NY 10022",
+    "phone": "(212) 794-8700",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "11AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-60 Minutes",
+      "Non-Rapid Testing Results in  2-5 Days"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care- East 67th",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/manhattan/east-67th/005",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1150%203rd%20Ave,%20New%20York,%20NY%2010065",
+    "address": "1150 3rd Ave, New York, NY 10065",
+    "phone": "(212) 933-0007",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 3-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Sameday Testing - NYC | E 60th Street",
+    "url": "http://sameday-testing.com/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=243%20E%2060th%20St.,%20New%20York,%20NY%2010022",
+    "address": "243 E 60th St., New York, NY 10022",
+    "phone": "(310) 697-8126",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 24 Hours",
+      "Non-Rapid Testing Results in 1-3 Days"
+    ]
+  },
+  {
+    "name": "Travel Medicine Consultations",
+    "url": "https://www.travelsurenyc.com/appointments/",
+    "locationType": "Physician's Office",
+    "googleMapUrl": "https://maps.google.com/?q=178%20East%2085th%20Street%20FL%203,%20New%20York,%20NY%2010028",
+    "address": "178 East 85th Street FL 3, New York, NY 10028",
+    "phone": "(212) 861-8976",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-2:30PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10AM-3PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 1 Hours",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Kings Third Ave Pharmacy",
+    "url": "https://prescryptive.com/covid-consumer-testing/",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1619%203rd%20Ave,%20New%20York,%20NY%2010128",
+    "address": "1619 3rd Ave, New York, NY 10128",
+    "phone": "(212) 534-6000",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-60 Minutes"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care- East 79th",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/manhattan/east-79th/265",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1143%20Lexington%20Avenue,%20New%20York%20City,%20NY%2010021",
+    "address": "1143 Lexington Avenue, New York City, NY 10021",
+    "phone": "(646) 350-4815",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Rapid Test NYC",
+    "url": "http://www.rapidtest.nyc/",
+    "locationType": "Independent Laboratory",
+    "googleMapUrl": "https://maps.google.com/?q=150%20E%2072nd%20Street,%20New%20York,%20NY%2010021",
+    "address": "150 E 72nd Street, New York, NY 10021",
+    "phone": "(917) 639-3060",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-6:30PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-6:30PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-6:30PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-6:30PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-6:30PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-6:30PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-4:30PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "ProHealth Pediatric Urgent Care - Yorkville",
+    "url": "https://www.prohealthcare.com/about-us/insights/drive-thru-testing.html",
+    "locationType": "Walk up only",
+    "googleMapUrl": "https://maps.google.com/?q=1601%203rd%20Ave,%20New%20York,%20NY%2010128",
+    "address": "1601 3rd Ave, New York, NY 10128",
+    "phone": "(646) 692-6272",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 3-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "MedRite Urgent Care- Lenox Hill ",
+    "url": "https://medriteurgentcare.com/covid-testing-services-in-upper-east-side-lenox-hill/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1090%203rd%20Avenue,%20New%20York,%20NY%2010065",
+    "address": "1090 3rd Avenue, New York, NY 10065",
+    "phone": "(212) 931-0200",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 1-3 Hours",
+      "Non-Rapid Testing Results in 2-3 Days"
+    ]
+  },
+  {
+    "name": "ClearMD",
+    "url": "https://www.clearmdhealth.com/",
+    "locationType": "Retail Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1051%203rd%20Avenue,%20New%20York,%20NY%2010065",
+    "address": "1051 3rd Avenue, New York, NY 10065",
+    "phone": "(646) 669-7556",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-7PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-120 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "NYC Health + Hospitals/Metropolitan",
+    "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/?redirect&notification",
+    "locationType": "Walk up only",
+    "googleMapUrl": "https://maps.google.com/?q=1901%20First%20Avenue,%20New%20York,%20NY%2010029",
+    "address": "1901 First Avenue, New York, NY 10029",
+    "phone": "(844) 692-4692",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "7AM-2PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "7AM-7PM"
+      }
+    ],
+    "testing": [
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Lenox Hill Hospital",
+    "url": "https://www.northwell.edu/coronavirus-covid-19/frequently-asked-questions",
+    "locationType": "Emergency Room",
+    "googleMapUrl": "https://maps.google.com/?q=100%20E%2077th%20St,%20New%20York,%20NY%2010075",
+    "address": "100 E 77th St, New York, NY 10075",
+    "phone": "(212) 434-2000",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 3 Days"
+    ]
+  },
+  {
+    "name": "Quest Diagnostics",
+    "url": "https://patient.questdiagnostics.com/no-cost-covid-test?utm_source=castlight&utm_medium=referral&utm_campaign=ciip",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=224%20East%2096th%20St,%20New%20York,%20NY%2010128",
+    "address": "224 East 96th St, New York, NY 10128",
+    "phone": "(212) 348-7700",
+    "schedules": [],
+    "testing": [
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care- Jackson Heights",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/queens/jackson-heights/018",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=73-02%20Roosevelt%20Ave,%20Jackson%20Heights,%20NY%2011372",
+    "address": "73-02 Roosevelt Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 475-2351",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "AdvantageCare - Upper East Side",
+    "url": "https://www.acpny.com/live-well/coronavirus/coronavirus-covid-19-testing",
+    "locationType": "Physician's Office",
+    "googleMapUrl": "https://maps.google.com/?q=215%20East%2095th%20St.,%20New%20York,%20NY%2010128",
+    "address": "215 East 95th St., New York, NY 10128",
+    "phone": "(866) 749-2660",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "ParCare Community-Harlem",
+    "url": "http://www.parcareues.com/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=301%20East%2099th%20St,%20New%20York,%20NY%2010029",
+    "address": "301 East 99th St, New York, NY 10029",
+    "phone": "(212) 231-2044",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Quest Diagnostics",
+    "url": "https://patient.questdiagnostics.com/no-cost-covid-test?utm_source=castlight&utm_medium=referral&utm_campaign=ciip",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=65%20E%2076th%20St,%20New%20York,%20NY%2010021",
+    "address": "65 E 76th St, New York, NY 10021",
+    "phone": "(212) 794-6400",
+    "schedules": [],
+    "testing": [
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Covid Care Manhattan",
+    "url": "http://covidcarenynj.com/",
+    "locationType": "Walk up only",
+    "googleMapUrl": "https://maps.google.com/?q=1711%203rd%20ave,%20New%20York,%20NY%2010029",
+    "address": "1711 3rd ave, New York, NY 10029",
+    "phone": "(716) 268-4319",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10:30AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10:30AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10:30AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10:30AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "2PM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10:30AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "10:30AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Statcare Urgent & Walk-In Medical Care (Jackson Heights)",
+    "url": "https://www.statcarewalkin.com/jackson-height-urgent-care-near-me-walk-in-medical-clinic-queens-ny-11732/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=80-10%20Northern%20Blvd,%20Queens,%20NY%2011372",
+    "address": "80-10 Northern Blvd, Queens, NY 11372",
+    "phone": "(917) 310-3371",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-3PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-30 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days"
+    ]
+  },
+  {
+    "name": "ZoomCare365 - 2nd Ave",
+    "url": "https://www.instagram.com/zoomcare_365/",
+    "locationType": "Urgent Care Clinic and Drive-thru",
+    "googleMapUrl": "https://maps.google.com/?q=1976%202nd%20Ave,%20New%20York,%20NY%2010029",
+    "address": "1976 2nd Ave, New York, NY 10029",
+    "phone": "(212) 879-6000",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8:30AM-6PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8:30AM-6PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8:30AM-6PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8:30AM-6PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8:30AM-6PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8:30AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Dr. John Abroon",
+    "url": "http://www.johnabroonmd.com/",
+    "locationType": "Physician's Office",
+    "googleMapUrl": "https://maps.google.com/?q=34%20E%2072nd%20St,%20New%20York,%20NY%2010021",
+    "address": "34 E 72nd St, New York, NY 10021",
+    "phone": "(212) 288-0900",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Cure Urgent Care - Upper East Side",
+    "url": "https://cureurgentcare.com/rapid-test/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=175%20East%2096th%20Street,%20@%203rd%20Ave.,%20New%20York%20City,%20NY%2010128",
+    "address": "175 East 96th Street, @ 3rd Ave., New York City, NY 10128",
+    "phone": "(212) 776-4320",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Northwell Health-GoHealth Urgent Care",
+    "url": "https://www.gohealthuc.com/northwell/locations/east-96th",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=175%20E%2096th%20St,%20New%20York,%20NY%2010129",
+    "address": "175 E 96th St, New York, NY 10129",
+    "phone": "(718) 948-4942",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-5PM"
+      }
+    ],
+    "testing": []
+  },
+  {
+    "name": "CityMD Urgent Care- East 50th",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/manhattan/east-50th/041",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=952%202nd%20Ave,%20New%20York,%20NY%2010022",
+    "address": "952 2nd Ave, New York, NY 10022",
+    "phone": "(212) 271-4864",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-8:30PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-8:30PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-8:30PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-8:30PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-8:30PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-4:30PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-4:30PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 5-7 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Steinway Medical Associates",
+    "url": "https://www.facebook.com/search/top?q=steinway%20medical%20associates",
+    "locationType": "Walk up only",
+    "googleMapUrl": "https://maps.google.com/?q=41st%20%20Ave%20&%2075th%20Street%20,%20Queens,%20NY%2011377",
+    "address": "41st  Ave & 75th Street , Queens, NY 11377",
+    "phone": "(718) 278-5100",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-4PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-4PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-4PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-4PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-4PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-4PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-4PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 9 Minutes"
+    ]
+  },
+  {
+    "name": "Farmacia Popular",
+    "url": "https://prescryptive.com/covid-consumer-testing/",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=8111%20Northern%20Blvd%20Ground%20Floor,%20Jackson%20Heights,%20NY%2011372",
+    "address": "8111 Northern Blvd Ground Floor, Jackson Heights, NY 11372",
+    "phone": "(718) 685-2020",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-60 Minutes",
+      "Non-Rapid Testing Results in  2-5 Days"
+    ]
+  },
+  {
+    "name": "ClearMD",
+    "url": "https://www.clearmdhealth.com/",
+    "locationType": "Retail Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1155%20Madison%20Avenue,%20New%20York,%20NY%2010028",
+    "address": "1155 Madison Avenue, New York, NY 10028",
+    "phone": "(646) 449-8724",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-7PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-120 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Medical Offices of Manhattan",
+    "url": "https://www.medicalofficesofmanhattan.com/",
+    "locationType": "Physician's Office",
+    "googleMapUrl": "https://maps.google.com/?q=211%20E%2051st%20St,%20New%20York,%20NY%2010022",
+    "address": "211 E 51st St, New York, NY 10022",
+    "phone": "(212) 398-1709",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 24 Hours",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care- East 96th",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/manhattan/east-96th/036",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1500%20Lexington%20Ave,%20New%20York,%20NY%2010029",
+    "address": "1500 Lexington Ave, New York, NY 10029",
+    "phone": "(212) 710-1065",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 3-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Medrite Urgent Care- Midtown East",
+    "url": "https://medriteurgentcare.com/covid-19-registration/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=919%202nd%20Ave.%20,%20New%20York,%20NY%2010017",
+    "address": "919 2nd Ave. , New York, NY 10017",
+    "phone": "(212) 935-3333",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 18 Hours",
+      "Non-Rapid Testing Results in 3-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Quest Diagnostics",
+    "url": "https://patient.questdiagnostics.com/no-cost-covid-test?utm_source=castlight&utm_medium=referral&utm_campaign=ciip",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=115%20E%2057Th%20St,%20Ste%201530,%20New%20York,%20NY%2010022",
+    "address": "115 E 57Th St, Ste 1530, New York, NY 10022",
+    "phone": "(866) 697-8378",
+    "schedules": [],
+    "testing": [
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Rapid Covid Testing East",
+    "url": "http://www.rapidtestingnyandct.com/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=115%20East%2057th%20Street%20Suite%201450,%20New%20York,%20NY%2010022",
+    "address": "115 East 57th Street Suite 1450, New York, NY 10022",
+    "phone": "(212) 203-6957",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-8PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Ainsworth Institute of Pain Management",
+    "url": "https://ainsworthinstitute.com/painless-rapid-covid-19-test-manhattan-new-york/",
+    "locationType": "Physician's Office",
+    "googleMapUrl": "https://maps.google.com/?q=115%20East%2057th%20Street%20Suite%201210,%20New%20York,%20NY%2010022",
+    "address": "115 East 57th Street Suite 1210, New York, NY 10022",
+    "phone": "(212) 203-2813",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-3PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-3PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-3PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-3PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 9-15 Minutes"
+    ]
+  },
+  {
+    "name": "Madison Rapid",
+    "url": "http://www.madisonrapid.com/",
+    "locationType": "Walk up only",
+    "googleMapUrl": "https://maps.google.com/?q=1269%20Madison%20Avenue,%20New%20York,%20NY%2010128",
+    "address": "1269 Madison Avenue, New York, NY 10128",
+    "phone": "(718) 943-2954",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Total Health & Wellness Medical Center",
+    "url": "http://www.totalhealthandwellnessmedical.com/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=667%20Madison%20Avenue,%20New%20York,%20NY%2010010",
+    "address": "667 Madison Avenue, New York, NY 10010",
+    "phone": "(917) 634-6063",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Lexington & 53rd St, Midtown - NY Forward Rapid Test Partner",
+    "url": "https://nyforward.bioreference.com/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=599%20Lexington%20Avenue,%20New%20York,%20NY%2010022",
+    "address": "599 Lexington Avenue, New York, NY 10022",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8:15AM-7:15PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8:15AM-7:15PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8:15AM-7:15PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8:15AM-7:15PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8:15AM-7:15PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8:15AM-7:15PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8:15AM-7:15PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 12 Hours"
+    ]
+  },
+  {
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=8125%2037th%20Ave,%20Jackson%20Heights,%20NY%2011372",
+    "address": "8125 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 899-0200",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "10AM-6PM"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 2 Days"
+    ]
+  },
+  {
+    "name": "Altru Chemists - Brooklyn",
+    "url": "https://resilhealth.com/altrurx",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=987%20Manhattan%20Ave,%20Brooklyn,%20NY%2011222",
+    "address": "987 Manhattan Ave, Brooklyn, NY 11222",
+    "phone": "(718) 349-9009",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10:10AM-6:30PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10:10AM-6:30PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10:10AM-6:30PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10:10AM-6:30PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10:10AM-6:30PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10:10AM-4:30PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "10:10AM-3PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "LabQ Diagnostics Greenpoint",
+    "url": "https://labq.com/covid-mobile-testing/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=977%20Manhattan%20Ave,%20Brooklyn,%20NY%2011222",
+    "address": "977 Manhattan Ave, Brooklyn, NY 11222",
+    "phone": "(888) 522-7247",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "11AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "10AM-5PM"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "NYC Health + Hospitals/Elmhurst",
+    "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/",
+    "locationType": "Hospital",
+    "googleMapUrl": "https://maps.google.com/?q=79-01%20Broadway,%20Elmhurst,%20NY%2011373",
+    "address": "79-01 Broadway, Elmhurst, NY 11373",
+    "phone": "(844) 692-4692",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-12PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8AM-12PM"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 3-7 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Speedy Sticks",
+    "url": "https://www.speedysticks.com/",
+    "locationType": "Mobile Testing",
+    "googleMapUrl": "https://maps.google.com/?q=80-15%2041st%20Ave,%20Elmhurst,%20NY%2011373",
+    "address": "80-15 41st Ave, Elmhurst, NY 11373",
+    "phone": "(347) 292-9570",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 9 Minutes",
+      "Non-Rapid Testing Results in 3-5 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "ModernMD Urgent Care - Jackson Heights",
+    "url": "https://modernmduc.com/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=37-33%2082nd%20Street,%20Jackson%20Heights,%20NY%2011372",
+    "address": "37-33 82nd Street, Jackson Heights, NY 11372",
+    "phone": "(646) 604-8190",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "8:30AM-6:30PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "8:30AM-6:30PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Quest Diagnostics",
+    "url": "https://patient.questdiagnostics.com/no-cost-covid-test?utm_source=castlight&utm_medium=referral&utm_campaign=ciip",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=147%20Greenpoint%20Ave,%201st%20Fl,%20Brooklyn,%20NY%2011222",
+    "address": "147 Greenpoint Ave, 1st Fl, Brooklyn, NY 11222",
+    "phone": "(718) 383-6785",
+    "schedules": [],
+    "testing": [
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Total Health & Wellness Medical Center",
+    "url": "http://www.totalhealthandwellnessmedical.com/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=211%20E%2043rd%20St,%20New%20York,%20NY%2010017",
+    "address": "211 E 43rd St, New York, NY 10017",
+    "phone": "(917) 634-6063",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Total Health & Wellness Medical Center",
+    "url": "http://www.totalhealthandwellnessmedical.com/",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=155%20East%2044th%20St,%20New%20York,%20NY%2010017",
+    "address": "155 East 44th St, New York, NY 10017",
+    "phone": "(917) 634-6063",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "SmartRx Specialty Pharmacy",
+    "url": "https://prescryptive.com/covid-consumer-testing/",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=1706%20Lexington%20Ave,%20New%20York,%20NY%2010029",
+    "address": "1706 Lexington Ave, New York, NY 10029",
+    "phone": "(718) 742-7622",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "10AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-60 Minutes"
+    ]
+  },
+  {
+    "name": "Premier HealthCare - Midtown",
+    "url": "https://www.yai.org/premier-healthcare-covid-19-testing",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=227%20East%2041%20Street%20,%20New%20York,%20NY%2010017",
+    "address": "227 East 41 Street , New York, NY 10017",
+    "phone": "(212) 273-6272",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-2PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 3-5 Days"
+    ]
+  },
+  {
+    "name": "Speedy Sticks - Lexington Ave",
+    "url": "https://www.speedysticks.com/our-services/",
+    "locationType": "Mobile Testing",
+    "googleMapUrl": "https://maps.google.com/?q=405%20Lexington%20Ave%20,%20New%20York,%20NY%2010174",
+    "address": "405 Lexington Ave , New York, NY 10174",
+    "phone": "(347) 292-9570",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Available",
+      "Non-Rapid Testing Results in 3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care-  Greenpoint",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/brooklyn/greenpoint/043",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=795%20Manhattan%20Ave,%20Brooklyn,%20NY%2011222",
+    "address": "795 Manhattan Ave, Brooklyn, NY 11222",
+    "phone": "(718) 489-3549",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-8PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-6PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-6PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "CVS Pharmacy",
+    "url": "https://www.cvs.com/store-locator/new-york-ny-pharmacies/150-east-42nd-st-btwn-3rd-and-lexington-ave-new-york-ny-10017/storeid=7019",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=150%20East%2042Nd%20Street,%20New%20York,%20NY%2010017",
+    "address": "150 East 42Nd Street, New York, NY 10017",
+    "phone": "(212) 661-8139",
+    "schedules": [],
+    "testing": [
+      "Rapid Testing Available"
+    ]
+  },
+  {
+    "name": "N.Y.U.Langone-Manhattan",
+    "url": "https://nyulangone.org/locations/covid-19-testing",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=240%20East%2038th%20St.,%20Manhatten,%20NY%2010016",
+    "address": "240 East 38th St., Manhatten, NY 10016",
+    "phone": "(646) 987-3525",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=8820%2037th%20Ave,%20Jackson%20Heights,%20NY%2011372",
+    "address": "8820 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 433-9800",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "11AM-2:30PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "11AM-2:30PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "11AM-2:30PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "11AM-2:30PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "11AM-2:30PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 2-4 Days"
+    ]
+  },
+  {
+    "name": "LabQ Diagnostics Grand Central Station",
+    "url": "https://labq.com/covid-mobile-testing/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=Park%20Ave%20&%2042nd%20Street,%20New%20York,%20NY%2010017",
+    "address": "Park Ave & 42nd Street, New York, NY 10017",
+    "phone": "(888) 522-7247",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10:30AM-5PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "10AM-5PM"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Quest Diagnostics",
+    "url": "https://patient.questdiagnostics.com/no-cost-covid-test?utm_source=castlight&utm_medium=referral&utm_campaign=ciip",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=590%205Th%20Avenue,%20New%20York,%20NY%2010036",
+    "address": "590 5Th Avenue, New York, NY 10036",
+    "phone": "(212) 221-1131",
+    "schedules": [],
+    "testing": [
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "The 24 Hour Doc ",
+    "url": "https://the24hourdoc.com/covid-19-testing",
+    "locationType": "",
+    "googleMapUrl": "https://maps.google.com/?q=588%205th%20Avenue,%20New%20York,%20NY%2010036",
+    "address": "588 5th Avenue, New York, NY 10036",
+    "phone": "(347) 266-1619",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "The 24 Hour Doc ",
+    "url": "http://www.the24hourdoc.com/",
+    "locationType": "",
+    "googleMapUrl": "https://maps.google.com/?q=1345%206th%20Ave,%20New%20York,%20NY%2010105",
+    "address": "1345 6th Ave, New York, NY 10105",
+    "phone": "(347) 266-1619",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "New York University Langone Tisch Hospital",
+    "url": "https://nyulangone.org/locations/covid-19-testing",
+    "locationType": "Hospital",
+    "googleMapUrl": "https://maps.google.com/?q=550%201st%20Ave,%20New%20York,%20NY%2010016",
+    "address": "550 1st Ave, New York, NY 10016",
+    "phone": "(212) 263-6906",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Formation Health",
+    "url": "http://formationhealth.com/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=110%20East%2040th%20Street,%20Unit%20703,%20New%20York,%20NY%2010016",
+    "address": "110 East 40th Street, Unit 703, New York, NY 10016",
+    "phone": "(917) 722-0837",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "7AM-7PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 30 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days"
+    ]
+  },
+  {
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=3764%2090th%20St,%20Jackson%20Heights,%20NY%2011372",
+    "address": "3764 90th St, Jackson Heights, NY 11372",
+    "phone": "(718) 779-2221",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "11AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 2-3 Days"
+    ]
+  },
+  {
+    "name": "La Gran Farmacia",
+    "url": "https://prescryptive.com/covid-consumer-testing/",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=91-10%2037th%20Avenue,%20Jackson%20Heights,%20NY%2011372",
+    "address": "91-10 37th Avenue, Jackson Heights, NY 11372",
+    "phone": "(718) 396-4091",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-7PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-60 Minutes",
+      "Non-Rapid Testing Results in  2-5 Days"
+    ]
+  },
+  {
+    "name": "Quest Diagnostics",
+    "url": "https://patient.questdiagnostics.com/no-cost-covid-test?utm_source=castlight&utm_medium=referral&utm_campaign=ciip",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=137%20E%2036Th%20St,%20New%20York,%20NY%2010016",
+    "address": "137 E 36Th St, New York, NY 10016",
+    "phone": "(866) 697-8378",
+    "schedules": [],
+    "testing": [
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "NYC Health + Hospitals/Blessed Sacrament (Queens)",
+    "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/?redirect&notification",
+    "locationType": "Walk up only",
+    "googleMapUrl": "https://maps.google.com/?q=34-43%2093rd%20Street,%20Queens,%20NY%2011372",
+    "address": "34-43 93rd Street, Queens, NY 11372",
+    "phone": "(844) 692-4693",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-2PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-2PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-2PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-2PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-2PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": []
+  },
+  {
+    "name": "Quest Diagnostics",
+    "url": "https://patient.questdiagnostics.com/no-cost-covid-test?utm_source=castlight&utm_medium=referral&utm_campaign=ciip",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=137%20East%2036th%20St,%20Ste%207,%20New%20York,%20NY%2010016",
+    "address": "137 East 36th St, Ste 7, New York, NY 10016",
+    "phone": "(212) 251-0018",
+    "schedules": [],
+    "testing": [
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Bethany Medical Clinic of New York",
+    "url": "http://bmcofny.com/",
+    "locationType": "Physician's Office",
+    "googleMapUrl": "https://maps.google.com/?q=200%20West%2057th%20Street,%20Suite%20601,%20New%20York,%20NY%2010019",
+    "address": "200 West 57th Street, Suite 601, New York, NY 10019",
+    "phone": "(315) 201-0621",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "8AM-4PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-30 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "LabQ Diagnostics Manhattan",
+    "url": "https://labq.com/covid-mobile-testing/",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=6th%20Av%20&%2048th%20Street,%20New%20York,%20NY%2010017",
+    "address": "6th Av & 48th Street, New York, NY 10017",
+    "phone": "(888) 522-7247",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "8AM-6PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-6PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-6PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "11AM-5PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10AM-6PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "10AM-5PM"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "LEAA Health ",
+    "url": "https://leaa.io/",
+    "locationType": "Mobile Testing",
+    "googleMapUrl": "https://maps.google.com/?q=510%20Fifth%20ave%20,%20Manhattan%20,%20NY%2010036",
+    "address": "510 Fifth ave , Manhattan , NY 10036",
+    "phone": "(866) 275-7594",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "7AM-11PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "7AM-11PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 1 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Quest Diagnostics",
+    "url": "https://patient.questdiagnostics.com/no-cost-covid-test?utm_source=castlight&utm_medium=referral&utm_campaign=ciip",
+    "locationType": "Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=2%20W%2086th%20St,%20Apt%201A,%20New%20York,%20NY%2010024",
+    "address": "2 W 86th St, Apt 1A, New York, NY 10024",
+    "phone": "(212) 873-8757",
+    "schedules": [],
+    "testing": [
+      "Non-Rapid Testing Results in 1-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "CityMD Urgent Care- Maspeth",
+    "url": "https://www.citymd.com/urgent-care-locations/ny/queens/maspeth/209",
+    "locationType": "Urgent Care Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=74-25%20Grand%20Ave,%20Queens,%20NY%2011373",
+    "address": "74-25 Grand Ave, Queens, NY 11373",
+    "phone": "(718) 803-2273",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "9AM-9PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "9AM-5PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "9AM-5PM"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15 Minutes",
+      "Non-Rapid Testing Results in 2-3 Days",
+      "Antibody Testing: Available"
+    ]
+  },
+  {
+    "name": "Grand Care Pharmacy",
+    "url": "https://prescryptive.com/covid-consumer-testing/",
+    "locationType": "Pharmacy Clinic",
+    "googleMapUrl": "https://maps.google.com/?q=66-56%20Grand%20Ave,%20Maspeth,%20NY%2011378",
+    "address": "66-56 Grand Ave, Maspeth, NY 11378",
+    "phone": "(718) 446-6656",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "10:30AM-6PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "10:30AM-6PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "10:30AM-6PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "10:30AM-6PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "10:30AM-6PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "10AM-3PM"
+      },
+      {
+        "name": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "testing": [
+      "Rapid Testing Results in 15-60 Minutes",
+      "Non-Rapid Testing Results in 1-2 Days"
+    ]
+  },
+  {
+    "name": "NYC Health + Hospitals Bellevue",
+    "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/?redirect&notification",
+    "locationType": "Hospital",
+    "googleMapUrl": "https://maps.google.com/?q=462%201st%20Ave,%20New%20York,%20NY%2010016",
+    "address": "462 1st Ave, New York, NY 10016",
+    "phone": "(212) 562-5555",
+    "schedules": [
+      {
+        "name": "Monday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Tuesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Wednesday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Thursday",
+        "hours": "7AM-7PM"
+      },
+      {
+        "name": "Friday",
+        "hours": "7AM-12PM"
+      },
+      {
+        "name": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "name": "Sunday",
+        "hours": "7AM-7PM"
+      }
+    ],
+    "testing": [
+      "Non-Rapid Testing Results in 3-5 Days",
+      "Antibody Testing: Available"
+    ]
+  }
+]

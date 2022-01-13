@@ -1,0 +1,774 @@
+{
+  "data": [
+  {
+    name: '37-26 Junction Boulevard',
+    testsAvailable: '(Rapid antigen and flu testing available)',
+    streets: [ '37-26 Junction Boulevard' ],
+    neighborhood: 'Queens, NY 11368',
+    dates: 'Dates: January 10 - 14',
+    times: [
+      'Monday - Thursday, 9:00 AM - 6:00 PM',
+      'Friday, 8:00 AM - 3:00 PM'
+    ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: '78-08 Broadway',
+    testsAvailable: '(Rapid antigen and flu testing available)',
+    streets: [ '78-08 Broadway' ],
+    neighborhood: 'Queens, NY 11373',
+    dates: 'Dates: January 10 - 14',
+    times: [
+      'Monday - Thursday, 9:00 AM - 6:00 PM',
+      'Friday, 8:00 AM - 3:00 PM'
+    ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: '82-37 164th Street',
+    testsAvailable: '(Rapid antigen and flu testing available)',
+    streets: [ '82-37 164th Street' ],
+    neighborhood: 'Queens, NY 11432',
+    dates: 'Dates: January 10 - 14',
+    times: [
+      'Monday - Thursday, 9:00 AM - 6:00 PM',
+      'Friday, 8:00 AM - 3:00 PM'
+    ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: '91-07 Jamaica Avenue',
+    testsAvailable: '(Rapid antigen and flu testing available)',
+    streets: [ '91-07 Jamaica Avenue' ],
+    neighborhood: 'Queens, NY 11421',
+    dates: 'Dates: January 10 - 14',
+    times: [
+      'Monday - Thursday, 9:00 AM - 6:00 PM',
+      'Friday, 8:00 AM - 3:00 PM'
+    ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Bayswater Skate Park',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ 'Bay 32 Street & Falcon Avenue' ],
+    neighborhood: 'Queens, NY 11691',
+    dates: 'Dates: January 10 - 11',
+    times: [ 'Monday - Tuesday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Beach 39th Street',
+    testsAvailable: '(PCR testing only)',
+    streets: [
+      'Beach 39 Street between Rockaway Beach Boulevard & Beach Channel Drive'
+    ],
+    neighborhood: 'Queens, NY 11697',
+    dates: 'Dates: January 10 - 14, 16',
+    times: [ 'Monday - Friday, Sunday, 8:30 AM - 4:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Beach 39th Vaccine Hub',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '42-12 Rockaway Beach Boulevard' ],
+    neighborhood: 'Queens, NY 11691',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Beach Channel Educational Campus',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '100-00 Beach Channel Drive' ],
+    neighborhood: 'Queens, NY 11694',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Blink - Springfield Gardens',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '130-20 Farmers Boulevard' ],
+    neighborhood: 'Queens, NY 11423',
+    dates: 'Dates: January 15 - 16',
+    times: [ 'Monday - Wednesday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Burger King - Liberty Avenue',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '120-02 Liberty Avenue' ],
+    neighborhood: 'Queens, NY 11419',
+    dates: 'Dates: January 10 - 12, 14 - 16',
+    times: [ 'Monday - Wednesday, Friday - Sunday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Community Church of Christ',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '167-04 108th Avenue' ],
+    neighborhood: 'Queens, NY 11433',
+    dates: 'Dates: January 11 - 12, 14',
+    times: [ 'Tuesday - Wednesday, Friday, 9:30 AM - 4:30 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Corona Golf Playground',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ '46th Avenue & 109th Street' ],
+    neighborhood: 'Queens, NY 11368',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: "Councilmember Selvena N.Brooks Powers's Office",
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '222-02 Merrick Boulevard' ],
+    neighborhood: 'Queens NY 11413',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'CultureLab',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ '5-25 46th Avenue' ],
+    neighborhood: 'Queens, NY 11101',
+    dates: 'Dates: January 10 - 14, 16',
+    times: [
+      'Monday - Wednesday, 8:30 AM - 6:00 PM',
+      'Thursday - Friday, Sunday, 8:30 AM - 4:00 PM'
+    ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Elmhurst High School',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '48-01 90th Street' ],
+    neighborhood: 'Queens, NY 11373',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Episcopal Church of St. Alban the Martyr',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '116-42 Farmers Boulevard' ],
+    neighborhood: 'Queens, NY 11412',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Far Rockaway',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ 'Corner of Mott Avenue & Beach Channel Drive' ],
+    neighborhood: 'Queens, NY 11691',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'First Baptist Church',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '100-10 Astoria Boulevard' ],
+    neighborhood: 'Queens, NY 11369',
+    dates: 'Dates: January 10 - 13',
+    times: [ 'Monday - Thursday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'First Faith Baptist Church',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ 'Corner of 208th Street & Murdock Avenue' ],
+    neighborhood: 'Queens, NY 11411',
+    dates: 'Dates: January 15 - 16',
+    times: [ 'Saturday - Sunday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Forest Park - Sobelsohn Playground',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ 'Intersection of Union Turnpike & Park Lane South' ],
+    neighborhood: 'Queens, NY 11418',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Grace United Methodist Church',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '200-08 Murdock Avenue' ],
+    neighborhood: 'Queens, NY 11412',
+    dates: 'Dates: January 15',
+    times: [ 'Saturday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Greater Allen Cathedral of NY',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '110-31 Merrick Boulevard' ],
+    neighborhood: 'Rockaway Park, NY 11433',
+    dates: 'Dates: January 12 - 14, 16',
+    times: [
+      'Monday - Wednesday, 9:00 AM - 5:00 PM',
+      'Thursday, 11:00 AM - 7:00 PM',
+      'Friday, 9:00 AM - 5:00 PM',
+      'Sunday, 8:00 AM - 4:00 PM'
+    ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Greater Sessions Cathedral United Pentecostal Church of God',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '102-40 Van Wyck Expressway' ],
+    neighborhood: 'Queens, NY 11419',
+    dates: 'Dates: January 15',
+    times: [ 'Saturday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Gurdwara Sant Sagar',
+    testsAvailable: 'Rapid antigen testing available)',
+    streets: [ '242-25 Braddock Avenue' ],
+    neighborhood: 'Queens, NY 11426',
+    dates: 'Dates: January 14',
+    times: [ 'Friday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Hart Playground',
+    testsAvailable: 'CDC Mobile Testing Unit',
+    streets: [ 'Corner of 65th Street & Broadway' ],
+    neighborhood: 'Queens, NY 11377',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 7:00 AM - 5:00 PM' ],
+    info: [ 'Testing site is currently testing people of all ages.' ]
+  },
+  {
+    name: 'Helen Marshall Playground',
+    testsAvailable: 'CDC Mobile Testing Unit',
+    streets: [ '100 Street & 24th Avenue' ],
+    neighborhood: 'Queens, NY 11369',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 7:00 AM - 5:00 PM' ],
+    info: [ 'Testing site is currently testing people of all ages.' ]
+  },
+  {
+    name: 'Howard Van Dohlen Skate Park',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ 'Intersection of 91st Avenue & 138th Street' ],
+    neighborhood: 'Queens, NY 11435',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'John F. Kennedy Airport',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ 'Terminal 8, Red Garage, Level 1' ],
+    neighborhood: 'Queens, NY 11430',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'KCS/Bayside United Methodist Church',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '3820 Bell Boulevard' ],
+    neighborhood: 'Queens, NY 11361',
+    dates: 'Dates: January 15',
+    times: [ 'Saturday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Kings of Kings Foundation',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '106-56 Guy R. Brewer Boulevard' ],
+    neighborhood: 'Queens, NY 11433',
+    dates: 'Dates: January 10 - 14',
+    times: [ 'Monday - Friday, 9:00 AM - 5:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Kissena Corridor Park',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ 'Intersection of 56th Avenue & 141st' ],
+    neighborhood: 'Queens, NY 11355',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'L/CPL Thomas P. Noonan Jr. Playground',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ '42nd Street & Greenpoint Avenue' ],
+    neighborhood: 'Woodside, NY 11377',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'LaGuardia Airport',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ 'Terminal B parking lot, 1 Central Terminal Drive' ],
+    neighborhood: 'Queens, NY 11371',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'LIFE Camp, INC',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '111-12 Sutphin Boulevard' ],
+    neighborhood: 'Jamaica, NY 11435',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Maple Playground',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ '136-50 Maple Avenue' ],
+    neighborhood: 'Flushing, NY 11355',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'Mt. Moriah AME Church - Linden Blvd Buisness Corridor',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '116-20 Francis Lewis Boulevard' ],
+    neighborhood: 'Queens, NY 11411',
+    dates: 'Dates: January 16',
+    times: [ 'Sunday, 11:00 AM - 5:30 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Museum of the Moving Image (MoMI)',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '36-01 35th Avenue' ],
+    neighborhood: 'Queens, NY 11106',
+    dates: 'Dates: January 15 - 16',
+    times: [ 'Saturday - Sunday, 10:30 AM - 5:30 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'New Jerusalem Worship Center',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '122-05 Smith Street' ],
+    neighborhood: 'Queens, NY 11434',
+    dates: 'Dates: January 13',
+    times: [ 'Thursday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'New Life United Methodist Church',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '8840 80th Street' ],
+    neighborhood: 'Queens, NY 11421',
+    dates: 'Dates: January 10 - 14',
+    times: [
+      'Monday, 11:30 AM - 6:30 PM',
+      'Tuesday - Friday, 10:30 AM - 5:30 PM'
+    ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'North Rochdale Playground',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ 'Baisley Boulevard & Bedell Street' ],
+    neighborhood: 'Jamaica, NY 11434',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'NYADI College of Automotive and Diesel Technology',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [
+      '178-18 Liberty Avenue, intersection of Liberty Avenue & 178 Street'
+    ],
+    neighborhood: 'Queens, NY 11433',
+    dates: 'Dates: January 10',
+    times: [ 'Monday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'NYCHA/Redfern',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '14-60 Beach Channel Drive' ],
+    neighborhood: 'Far Rockaway, NY 11691',
+    dates: 'Dates: January 12 - 14',
+    times: [ 'Wednesday - Friday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'NYCHA/Woodside',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '50-37 Newtown Road (streetside parking)' ],
+    neighborhood: 'Queens NY 11377',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Our Lady of Sorrows Church',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [
+      'Corner of 37th Avenue & 104th Street',
+      'Streetside parking directly in front of church)'
+    ],
+    neighborhood: 'Corona, NY 11368',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Park of the Americas',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ 'Corner of 104th & 41st Streets' ],
+    neighborhood: 'Corona, NY 11368',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Phil "Scooter" Rizzuto Park ',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '95 Avenue & 125th Street' ],
+    neighborhood: 'South Richmond Hill, NY 11419',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Pomonok Playground',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ 'Kissena Boulevard & 65th Avenue' ],
+    neighborhood: 'Flushing, NY 11367',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'Project New Yorker',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '169-18 Hillside Avenue' ],
+    neighborhood: 'Queens, NY 11432',
+    dates: 'Dates: January 11',
+    times: [ 'Tuesday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Queens College Student Union',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '65-30 Kissena Boulevard' ],
+    neighborhood: 'Queens NY 11367',
+    dates: 'Dates: January 10 - 14',
+    times: [ 'Monday - Friday, 10:00 AM - 5:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Queens Museum',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ 'New York City Building' ],
+    neighborhood: 'Corona, NY 11368',
+    dates: 'Dates: January 12, 16',
+    times: [ 'Wednesday, Sunday, 9:00 AM - 5:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Queens Valley Playground',
+    testsAvailable: 'CDC Mobile Testing Unit',
+    streets: [ 'Corner of 137 Street & 77 Avenue' ],
+    neighborhood: 'Flushing NY 11367',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 7:00 AM - 5:00 PM' ],
+    info: [ 'Testing site is currently testing people of all ages.' ]
+  },
+  {
+    name: "Raymond O'Connor Park",
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ '209-1 32nd Avenue' ],
+    neighborhood: 'Bayside, NY 11360',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'Robert Ross Johnson Family Life Center - St. Albans Congregational Church',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '172-17 Linden Boulevard' ],
+    neighborhood: 'Queens, NY 11434',
+    dates: 'Dates: January 10',
+    times: [ 'Monday, 8:30 AM - 3:30 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Rockaway YMCA',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '207 Beach 73rd Street' ],
+    neighborhood: 'Queens, NY 11692',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Rosedale',
+    testsAvailable: '(PCR testing only)',
+    streets: [ 'Brookville Boulevard & 147th Avenue' ],
+    neighborhood: 'Queens, NY 11422',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Friday, Sunday, 8:30 AM - 4:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Shack48',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '212-32 48th Avenue' ],
+    neighborhood: 'Queens, NY 11364',
+    dates: 'Dates: January 15 - 16',
+    times: [ 'Saturday - Sunday, 10:00 AM - 5:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Saints Joachim & Anne Parish',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ 'Robard Lane & Hollis Avenue' ],
+    neighborhood: 'Queens, NY 11429',
+    dates: 'Dates: January 12, 16',
+    times: [ 'Wednesday, 9:00 AM - 7:00 PM', 'Sunday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Sorrentino Rec Center',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ '18-48 Cornaga Avenue' ],
+    neighborhood: 'Far Rockaway, NY 11691',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'Sports Barbershop',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '144-08 243rd Street' ],
+    neighborhood: 'Queens, NY 11422',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'St. Paul Chong Hasang Roman Catholic Church',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '32-15 Parsons Boulevard' ],
+    neighborhood: 'Flushing, NY 11354',
+    dates: 'Dates: January 16',
+    times: [ 'Sunday, 8:30 AM - 3:30 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: "St Peter's Episcopal Church",
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '137-28 244th Street' ],
+    neighborhood: 'Queens, NY 11422',
+    dates: 'Dates: January 10 - 11',
+    times: [ 'Monday - Tuesday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'St. Teresa of Avila',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ 'Parking lot near 109-55 128th Street' ],
+    neighborhood: 'South Ozone Park, NY 11420',
+    dates: 'Dates: January 10 - 15',
+    times: [ 'Monday - Saturday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'Sunnyside Community Services',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '43-31 39th Street' ],
+    neighborhood: 'Queens, NY 11104',
+    dates: 'Dates: January 10',
+    times: [ 'Monday, 1:00 PM - 7:30 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Telephone Playground',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '216-0-216-98 75th Avenue' ],
+    neighborhood: 'Oakland Gardens, NY 11364',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 7:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Travers Park',
+    testsAvailable: 'CDC Mobile Testing Unit',
+    streets: [ '76-9 34th Avenue' ],
+    neighborhood: 'Queens, NY 11372',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 7:00 AM - 5:00 PM' ],
+    info: [ 'Testing site is currently testing people of all ages.' ]
+  },
+  {
+    name: 'Van Alst Playground',
+    testsAvailable: '(Rapid antigen testing only)',
+    streets: [ 'Intersection of 30th Avenue & 21st Street' ],
+    neighborhood: 'Queens, NY 11102',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Tuesday - Sunday, 9:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 2 years and older.'
+    ]
+  },
+  {
+    name: 'William F. Moore Park',
+    testsAvailable: '(Rapid antigen testing available)',
+    streets: [ '10706 Corona Avenue' ],
+    neighborhood: 'Queens, NY 11368',
+    dates: 'Dates: January 10 - 16',
+    times: [ 'Monday - Sunday, 8:00 AM - 6:00 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  },
+  {
+    name: 'Youth Referral & Placement Unit (YRPU)',
+    testsAvailable: '(Saliva self-testing site)',
+    streets: [ '141-03 Lakewood Avenue' ],
+    neighborhood: 'Queens, NY 11435',
+    dates: 'Dates: January 10',
+    times: [ 'Monday, 10:00 AM - 4:30 PM' ],
+    info: [
+      'Testing site is currently only testing people 4 years and older.'
+    ]
+  }
+]
+}

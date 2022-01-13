@@ -23,7 +23,7 @@ const parsePage = (page) => {
     let googleMapUrl = site.getElementsByClassName('google-link')[0]?.children[0]?.href
     let address = site.querySelectorAll('img[alt="Icon pin"] ~ a')[0]?.textContent
     let phone = site.querySelectorAll('img[alt="Icon call"] ~ a')[0]?.textContent
-    let schedules = Array.from(site.getElementsByClassName('open_days')).map(day => {
+    let schedules = Array.from(site.querySelectorAll('div.open_days > div')).map(day => {
       let dayName = day.getElementsByClassName('day-name')[0]?.textContent
       let hours = day.getElementsByClassName('open-day')[0]?.textContent
       let daySchedule = {
