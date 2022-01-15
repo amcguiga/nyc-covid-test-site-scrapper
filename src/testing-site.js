@@ -33,7 +33,7 @@ const siteAddress = (raw, street, neighborhood, borough, postal, googleMapUrl, i
 const siteSchedule = (raw, days) => 
   ({
     raw: raw,
-    days: days.map(day => scheduleDay(day.date, day.start, day.end))
+    days: days?.map(day => scheduleDay(day.date, day.start, day.end))
   })
 
 const siteScheduleDay = (date, start, end) => 
@@ -43,10 +43,10 @@ const siteScheduleDay = (date, start, end) =>
     end: end
   })
 
-module.exports = {
-  testingSite: testingSite,
-  siteTestsAvailable: siteTestsAvailable,
-  siteAddress: siteAddress,
-  siteSchedule: siteSchedule,
-  siteScheduleDay: siteScheduleDay
+export {
+  testingSite,
+  siteTestsAvailable,
+  siteAddress,
+  siteSchedule,
+  siteScheduleDay
 }

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "get recent covid test site information for nyc",
   "main": "index.js",
+  "type": "module",
   "dependencies": {
     "got": "^12.0.1",
     "jsdom": "^19.0.0"

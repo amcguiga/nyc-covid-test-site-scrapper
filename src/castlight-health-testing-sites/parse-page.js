@@ -1,5 +1,5 @@
-const { JSDOM } = require('jsdom')
-const { testingSite, siteTestsAvailable, siteAddress, siteSchedule } = require('../testing-site')
+import { JSDOM } from 'jsdom'
+import { testingSite, siteTestsAvailable, siteAddress, siteSchedule } from '../testing-site.js'
 
 const parsePage = (page) => {
   let dom = new JSDOM(page)
@@ -28,10 +28,10 @@ const parsePage = (page) => {
     let [statePostal, neighborhood, ...lines] = rawAddress.split(',').map(part => part.trim()).reverse()
     let postal = statePostal?.match(/\d{5}/)[0]
     let address = siteAddress(rawAddress, lines[0], neighborhood, undefined, postal, googleMapUrl, undefined)
-    let schedule = siteSchedule(schedules, [])
+    let schedule = siteSchedule(schedules)
     let tests = siteTestsAvailable(testing)
     return testingSite(name, 'private', locationType, tests, address, schedule, undefined, url, phone)
   })
 }
 
-module.exports = parsePage
+export { parsePage }

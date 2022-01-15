@@ -1,9 +1,9 @@
-const { JSDOM } = require('jsdom')
-const { testingSite, siteTestsAvailable, siteAddress, siteSchedule } = require('../testing-site')
+import { JSDOM } from 'jsdom'
+import { testingSite, siteTestsAvailable, siteAddress, siteSchedule } from '../testing-site.js'
 
 const parsePage = (page) => {
   let dom = new JSDOM(page)
-  const boroughs = ['queens']
+  const boroughs = ['queens', 'bronx', 'brooklyn', 'staten-island', 'manhattan']
 
   return boroughs.flatMap( borough => {
     let sites = dom.window.document.querySelectorAll(`div#${borough} > p`)
@@ -49,11 +49,11 @@ const parsePage = (page) => {
       let [line1, ...addressInfo] = streets
       let [neighborhood, postal] = result.neighborhood.split(/, ?NY ?/).map(part => part.trim())
       let address = siteAddress(rawAddress, line1, neighborhood, borough, postal, undefined, addressInfo) 
-      let schedule = siteSchedule({ dates: dates, times: times }, [])
+      let schedule = siteSchedule({ dates: dates, times: times })
 
       return testingSite(name, 'city', 'mobile', siteTests, address, schedule, info, undefined, undefined, undefined)
     })
   })
 }
 
-module.exports = parsePage
+export { parsePage }

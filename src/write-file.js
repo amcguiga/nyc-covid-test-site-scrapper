@@ -1,8 +1,8 @@
-const fs = require("fs").promises;
+import * as fs from 'fs'
 
 const writeFile = async (data, fileName, dirPath) => {
   try {
-    await fs.mkdir(dirPath);
+    await fs.promises.mkdir(dirPath);
   } catch (error) {
     if (error.code !== "EEXIST") {
       console.log("Unable to write error log file", error);
@@ -10,11 +10,11 @@ const writeFile = async (data, fileName, dirPath) => {
   }
 
   try {
-    await fs.writeFile(`${dirPath}/${fileName}`, JSON.stringify(data));
+    await fs.promises.writeFile(`${dirPath}/${fileName}`, JSON.stringify(data));
     console.log(`Output written to ${dirPath}/${fileName}!`);
   } catch (error) {
     console.log("Unable to write error log file", error);
   }
 };
 
-module.exports = writeFile;
+export { writeFile }
