@@ -11,21 +11,21 @@ const init = (async () => {
   let filePromise = parseFile(filePath)
   filePromise.then(file => {
     let data = castlightParse(file)
-    writeFile(data, 'private-11106-sites-1-13-22.json', path.join(__dirname, "./data/site-data"))
+    writeFile(data, 'private-11106-sites-1-15-22.json', path.join(__dirname, "./data/site-data"))
     data
   })
-}) 
+})
 
 
-/** const init = (async () => {
+/**const init = (async () => {
   let filePath = path.join(__dirname, "./data/site-references/city-covid-sites-1-13-22.html")
   let filePromise = parseFile(filePath)
   filePromise.then(file => {
     let data = nycGovParse(file)
-    writeFile(data, 'city-queens-sites-1-13-22.json', path.join(__dirname, "./data/site-data"))
+    writeFile(data, 'city-queens-sites-1-15-22.json', path.join(__dirname, "./data/site-data"))
     data
   })
   
-}) */
+})*/
 
 init()
