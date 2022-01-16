@@ -6,11 +6,10 @@
   "type": "module",
   "dependencies": {
     "got": "^12.0.1",
-    "jsdom": "^19.0.0"
+    "jsdom": "^19.0.0",
+    "tough-cookie": "^4.0.0"
   },
-  "scripts": {
-  
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amcguiga/nyc-covid-test-site-scrapper.git"

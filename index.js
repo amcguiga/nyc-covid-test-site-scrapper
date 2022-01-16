@@ -11,12 +11,9 @@ const privateSitePath = new URL('./data/site-references/private-covid-sites-1-13
 const govSitePath = new URL('./data/site-references/city-covid-sites-1-13-22.html', import.meta.url).pathname
 
 const init = (async () => {
-  let privateData = parseFile(privateSitePath).then( file =>
-    (castlightParsePage(file))
-  )
-  /*let privateData = castlightLoad().then(page => 
+  let privateData = castlightLoad().then(page => 
     (castlightParsePage(page.rawBody))
-  )*/
+  )
   let publicData = nycGovLoad().then(page => 
     (nycGovParsePage(page.rawBody))
   )
@@ -27,7 +24,7 @@ const init = (async () => {
       runTime: new Date().toLocaleTimeString()
     })
   ).then(dataset => {
-    writeFile(dataset, 'sites-1-15-22.json', new URL('./data/site-data', import.meta.url).pathname)
+    writeFile(dataset, 'sites-1-16-22.json', new URL('./data/site-data', import.meta.url).pathname)
     return dataset
   })  
 })
