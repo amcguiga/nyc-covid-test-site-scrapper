@@ -12,6 +12,10 @@ const costMatcher = new Map([
   ['free', { matches: ['free diagnostic testing'] }]
 ])
 
+const visitMatcher = new Map([
+  ['appointment', { matches: ['appointment required'] }]
+])
+
 const parsePage = (page) => {
   let dom = new JSDOM(page)
 
@@ -36,6 +40,7 @@ const parsePage = (page) => {
     let antibody = Array.from(site.querySelectorAll('div.anti-body-testing > img[alt="Antibody testing icon"] + span')).map(test => test.textContent)
     let info = Array.from(site.querySelectorAll('div.guidelines_text > span')).map(line => line.textContent)
     let cost = Array.from(site.querySelectorAll('div.cost-row > span')).map(line => line.textContent)
+    let requirements = Array.from(site.querySelectorAll('div.checked-content > span')).map(line => line.textContent)
 
     let initialTestList = antibody.find((contents) => (contents.includes('Available'))) ? [{ testType: 'antibody', resultTimeline: 'unknown' }] : []
     let tests = mainTest.reduce((acc, test) => {
@@ -63,6 +68,8 @@ const parsePage = (page) => {
     let schedule = siteSchedule({ raw: schedules })
 
     let paymentType = cost.find((contents) => (contents.toLowerCase().includes('free diagnostic testing'))) ? 'free' : 'unknown'
+
+    let visitOptions = requirements.find((contents) => (contents.toLowerCase().includes('appointment required'))) ? ['appointment'] : []
     
     return testingSite({
       name: name,
@@ -72,6 +79,7 @@ const parsePage = (page) => {
       address: address,
       schedule: schedule,
       paymentType: paymentType,
+      visitOptions: visitOptions,
       info: info,
       url: url,
       phone: phone
