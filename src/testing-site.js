@@ -1,4 +1,4 @@
-const testingSite = ({ name, providerType, locationType, testsAvailable, address, schedule, info, url, phone, updated }) => 
+const testingSite = ({ name, providerType, locationType, testsAvailable, address, schedule, visitOptions, paymentType, info, url, phone, updated }) => 
   ({
     name: name,
     providerType: providerType,
@@ -15,6 +15,8 @@ const testingSite = ({ name, providerType, locationType, testsAvailable, address
       info: address.info
     }),
     schedules: siteSchedule({ raw: schedule.raw, days: schedule.days }),
+    visitOptions: visitOptions,
+    paymentType: paymentType,
     info: info,
     url: url,
     phone: phone,

@@ -8,6 +8,10 @@ const testingMatcher = new Map([
   ['antibody', { matches: ['antibody'] }]
 ])
 
+const costMatcher = new Map([
+  ['free', { matches: ['free diagnostic testing'] }]
+])
+
 const parsePage = (page) => {
   let dom = new JSDOM(page)
 
@@ -31,6 +35,7 @@ const parsePage = (page) => {
     let mainTest = Array.from(site.querySelectorAll('div.rapid-testing-row > span')).map(test => test.textContent)
     let antibody = Array.from(site.querySelectorAll('div.anti-body-testing > img[alt="Antibody testing icon"] + span')).map(test => test.textContent)
     let info = Array.from(site.querySelectorAll('div.guidelines_text > span')).map(line => line.textContent)
+    let cost = Array.from(site.querySelectorAll('div.cost-row > span')).map(line => line.textContent)
 
     let initialTestList = antibody.find((contents) => (contents.includes('Available'))) ? [{ testType: 'antibody', resultTimeline: 'unknown' }] : []
     let tests = mainTest.reduce((acc, test) => {
@@ -48,24 +53,27 @@ const parsePage = (page) => {
     let [statePostal, neighborhood, ...lines] = rawAddress.split(',').map(part => part.trim()).reverse()
     let postal = statePostal?.match(/\d{5}/)[0]
     let address = siteAddress({
-      raw: rawAddress, 
-      street: lines[0], 
-      neighborhood: neighborhood, 
-      postal: postal, 
+      raw: rawAddress,
+      street: lines[0],
+      neighborhood: neighborhood,
+      postal: postal,
       googleMapUrl: googleMapUrl
     })
 
     let schedule = siteSchedule({ raw: schedules })
+
+    let paymentType = cost.find((contents) => (contents.toLowerCase().includes('free diagnostic testing'))) ? 'free' : 'unknown'
     
     return testingSite({
-      name: name, 
-      providerType: 'private', 
-      locationType: locationType, 
-      testsAvailable: testsAvailable, 
-      address: address, 
-      schedule: schedule, 
+      name: name,
+      providerType: 'private',
+      locationType: locationType,
+      testsAvailable: testsAvailable,
+      address: address,
+      schedule: schedule,
+      paymentType: paymentType,
       info: info,
-      url: url, 
+      url: url,
       phone: phone
     })
   })

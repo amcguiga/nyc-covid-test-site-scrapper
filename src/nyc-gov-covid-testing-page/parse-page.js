@@ -64,12 +64,12 @@ const parsePage = (page) => {
       let [line1, ...addressInfo] = streets
       let [neighborhood, postal] = result.neighborhood.split(/, ?NY ?/).map(part => part.trim())
       let address = siteAddress({
-        raw: rawAddress, 
-        street: line1, 
-        neighborhood: neighborhood, 
-        borough: borough, 
-        postal: postal, 
-        info: addressInfo 
+        raw: rawAddress,
+        street: line1,
+        neighborhood: neighborhood,
+        borough: borough,
+        postal: postal,
+        info: addressInfo
       }) 
       let schedule = siteSchedule({ raw: { dates: dates, times: times } })
 
@@ -80,6 +80,8 @@ const parsePage = (page) => {
         testsAvailable: testsAvailable,
         address: address,
         schedule: schedule,
+        visitOptions: ['walk-in'],
+        paymentType: 'free',
         info: info
       })
     })
