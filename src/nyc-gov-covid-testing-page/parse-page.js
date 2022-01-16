@@ -1,14 +1,21 @@
 import { JSDOM } from 'jsdom'
-import { testingSite, siteTestsAvailable, siteAddress, siteSchedule } from '../testing-site.js'
+import { testingSite, siteTestsAvailable, siteAddress, siteSchedule, siteTest } from '../testing-site.js'
+
+const boroughs = ['queens', 'bronx', 'brooklyn', 'staten-island', 'manhattan']
+const testingMatcher = new Map([
+  ['rapid', { matches: ['rapid antigen'], timeline: '1 Day' }],
+  ['pcr', { matches: ['pcr', 'testing available'], timeline: '3-5 Days' }],
+  ['saliva', { matches: ['saliva'], timeline: '3-5 Days' }],
+  ['flu', { matches: ['flu'], timeline: '3-5 Days' }],
+])
 
 const parsePage = (page) => {
   let dom = new JSDOM(page)
-  const boroughs = ['queens', 'bronx', 'brooklyn', 'staten-island', 'manhattan']
 
   return boroughs.flatMap( borough => {
     let sites = dom.window.document.querySelectorAll(`div#${borough} > p`)
     return Array.from(sites).map( site => {
-      // the paragraph tag has no html element structure under it, but each "item" is separated by a br
+      // the paragraph tag has no html element structure under it, but each 'item' is separated by a br
       let lines = site.innerHTML.split('<br>').slice(0, -1)
       let parsedLines = lines.map( line => {
         let placeholder = dom.window.document.createElement('p')
@@ -44,7 +51,15 @@ const parsePage = (page) => {
         info.textContent.replace(/\n|\r|\t/g, '').replace(/  +/g, ' ')
       )
 
-      let siteTests = siteTestsAvailable(tests)
+      let testing = Array.from(testingMatcher.entries()).reduce((acc, [key, { matches, timeline}]) => {
+        let matcher = new RegExp(matches.join('|'))
+        if (matcher.test(tests?.toLowerCase()))
+          return [...acc, { testType: key, resultTimeline: timeline}]
+        else 
+          return acc
+      }, [])
+
+      let siteTests = siteTestsAvailable(tests, testing)
       let rawAddress = { streets: streets, neighborhood: result.neighborhood, borough: borough }
       let [line1, ...addressInfo] = streets
       let [neighborhood, postal] = result.neighborhood.split(/, ?NY ?/).map(part => part.trim())

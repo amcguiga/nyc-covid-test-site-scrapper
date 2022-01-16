@@ -3,7 +3,7 @@ const testingSite = (name, providerType, locationType, testsAvailable, address, 
     name: name,
     providerType: providerType,
     locationType: locationType,
-    testsAvailable: siteTestsAvailable(testsAvailable.raw, testsAvailable.testType, testsAvailable.resultTimeline),
+    testsAvailable: siteTestsAvailable(testsAvailable.raw, testsAvailable.siteTests),
     address: siteAddress(address.raw, address.street, address.neighborhood, address.borough, address.postal, address.googleMapUrl, address.info),
     schedules: siteSchedule(schedule.raw, schedule.days),
     info: info,
@@ -12,9 +12,14 @@ const testingSite = (name, providerType, locationType, testsAvailable, address, 
     updated: updated,
   })
 
-const siteTestsAvailable = (raw, testType, resultTimeline) => 
+const siteTestsAvailable = (raw, siteTests) => 
   ({
     raw: raw,
+    siteTests: siteTests?.map(test => siteTest(test.testType, test.resultTimeline))
+  })
+
+const siteTest = (testType, resultTimeline) =>
+  ({
     testType: testType,
     resultTimeline: resultTimeline
   })
@@ -48,5 +53,6 @@ export {
   siteTestsAvailable,
   siteAddress,
   siteSchedule,
-  siteScheduleDay
+  siteScheduleDay,
+  siteTest
 }
