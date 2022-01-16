@@ -1,30 +1,39 @@
-const testingSite = (name, providerType, locationType, testsAvailable, address, schedule, info, url, phone, updated) => 
+const testingSite = ({ name, providerType, locationType, testsAvailable, address, schedule, info, url, phone, updated }) => 
   ({
     name: name,
     providerType: providerType,
     locationType: locationType,
-    testsAvailable: siteTestsAvailable(testsAvailable.raw, testsAvailable.siteTests),
-    address: siteAddress(address.raw, address.street, address.neighborhood, address.borough, address.postal, address.googleMapUrl, address.info),
-    schedules: siteSchedule(schedule.raw, schedule.days),
+    testsAvailable: siteTestsAvailable({ raw: testsAvailable.raw, siteTests: testsAvailable.siteTests }),
+    address: siteAddress({ 
+      raw: address.raw, 
+      street: address.street, 
+      neighborhood: 
+      address.neighborhood, 
+      borough: address.borough, 
+      postal: address.postal, 
+      googleMapUrl: address.googleMapUrl, 
+      info: address.info
+    }),
+    schedules: siteSchedule({ raw: schedule.raw, days: schedule.days }),
     info: info,
     url: url,
     phone: phone,
     updated: updated,
   })
 
-const siteTestsAvailable = (raw, siteTests) => 
+const siteTestsAvailable = ({ raw, siteTests }) => 
   ({
     raw: raw,
-    siteTests: siteTests?.map(test => siteTest(test.testType, test.resultTimeline))
+    siteTests: siteTests?.map(test => siteTest({ testType: test.testType, resultTimeline: test.resultTimeline }))
   })
 
-const siteTest = (testType, resultTimeline) =>
+const siteTest = ({ testType, resultTimeline }) =>
   ({
     testType: testType,
     resultTimeline: resultTimeline
   })
 
-const siteAddress = (raw, street, neighborhood, borough, postal, googleMapUrl, info) => 
+const siteAddress = ({ raw, street, neighborhood, borough, postal, googleMapUrl, info }) => 
   ({
     raw: raw,
     street: street,
@@ -35,13 +44,13 @@ const siteAddress = (raw, street, neighborhood, borough, postal, googleMapUrl, i
     info: info
   })
 
-const siteSchedule = (raw, days) => 
+const siteSchedule = ({ raw, days }) => 
   ({
     raw: raw,
-    days: days?.map(day => scheduleDay(day.date, day.start, day.end))
+    days: days?.map(day => scheduleDay({ date: day.date, start: day.start, end: day.end }))
   })
 
-const siteScheduleDay = (date, start, end) => 
+const siteScheduleDay = ({ date, start, end }) => 
   ({
     date: date,
     start: start,

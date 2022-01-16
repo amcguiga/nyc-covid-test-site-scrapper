@@ -47,26 +47,41 @@ const parsePage = (page) => {
 
       let [name, tests, ...streets] = result.siteInfo
       let [dates, ...times] = result.schedule
-      let info = Array.from(site.getElementsByTagName('i')).map( info => 
+      let info = Array.from(site.getElementsByTagName('i')).map( info =>
         info.textContent.replace(/\n|\r|\t/g, '').replace(/  +/g, ' ')
       )
 
-      let testing = Array.from(testingMatcher.entries()).reduce((acc, [key, { matches, timeline}]) => {
+      let siteTests = Array.from(testingMatcher.entries()).reduce((acc, [key, { matches, timeline }]) => {
         let matcher = new RegExp(matches.join('|'))
         if (matcher.test(tests?.toLowerCase()))
-          return [...acc, { testType: key, resultTimeline: timeline}]
+          return [...acc, siteTest({ testType: key, resultTimeline: timeline})]
         else 
           return acc
       }, [])
 
-      let siteTests = siteTestsAvailable(tests, testing)
+      let testsAvailable = siteTestsAvailable({ raw: tests, siteTests: siteTests })
       let rawAddress = { streets: streets, neighborhood: result.neighborhood, borough: borough }
       let [line1, ...addressInfo] = streets
       let [neighborhood, postal] = result.neighborhood.split(/, ?NY ?/).map(part => part.trim())
-      let address = siteAddress(rawAddress, line1, neighborhood, borough, postal, undefined, addressInfo) 
-      let schedule = siteSchedule({ dates: dates, times: times })
+      let address = siteAddress({
+        raw: rawAddress, 
+        street: line1, 
+        neighborhood: neighborhood, 
+        borough: borough, 
+        postal: postal, 
+        info: addressInfo 
+      }) 
+      let schedule = siteSchedule({ raw: { dates: dates, times: times } })
 
-      return testingSite(name, 'city', 'mobile', siteTests, address, schedule, info, undefined, undefined, undefined)
+      return testingSite({
+        name: name,
+        providerType: 'city',
+        locationType: 'mobile',
+        testsAvailable: testsAvailable,
+        address: address,
+        schedule: schedule,
+        info: info
+      })
     })
   })
 }
